@@ -27,5 +27,7 @@ events:
   - digital-desk
   - windows95
   - lifestreams
+  - wechat
+  - windows-vista
 ---
 
