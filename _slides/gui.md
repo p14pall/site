@@ -21,4 +21,6 @@ slides:
   - knuth-fonts
   - squeakos
   - sugar-neighborhood
+  - wechat
+  - windows-vista
 ---
